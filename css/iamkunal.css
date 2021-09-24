@@ -1,0 +1,267 @@
+body
+{
+  margin: 0;
+  background-color:white;
+  text-align: center;
+}
+.text1
+{
+  display: inline-block;
+  position: relative;
+  top: 100;
+
+  font-size: 7rem;
+  font-family: 'Cherish', cursive;
+  color: 150050;
+}
+/*font-family: 'Cherish', cursive;
+font-family: 'Gideon Roman', cursive;
+font-family: 'Grey Qo', cursive;
+font-family: 'Handlee', cursive;*/
+.corner
+{
+  display: inline-block;
+  position: relative;
+  bottom: 500;
+  right: 30%
+}
+.foot
+{
+  display: inline-block;
+  position: relative;
+  bottom: 960;
+  left: 500;
+
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: 45046A;
+font-family: 'Handlee', cursive
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: 1597BB;
+}
+
+.active {
+  background-color: 1597BB;
+}
+.list
+{
+
+  position: relative;
+  bottom: 1633;
+  left: 20%
+  width: 800;
+  height: 50;
+
+}
+.clrs
+{
+  display: inline-block;
+  position: relative;
+  bottom: 1140;
+  right: 300;
+  height: 700;
+  width: 800;
+}
+.soldr
+{display: inline-block;
+  position: relative;
+  left: 370;
+  bottom: 1600;
+}
+.tribute
+{
+  display: inline-block;
+  position: relative;
+  bottom: 1570;
+  font-family: 'Handlee', cursive;
+  font-size: 2rem;
+  color: 00A8CC;
+
+}
+.colors
+{
+  display: inline-block;
+  position: relative;
+  bottom: 1561;
+  left:269;
+  height: 700;
+  width: 800;
+}
+.lion
+{
+  display: inline-block;
+  position: relative;
+  bottom: 2200;
+  right: 359;
+  height: 500;
+  width: 500;
+}
+.liontxt
+{
+  display: inline-block;
+  position: relative;
+  bottom: 2200;
+  right: 700;
+  font-family: 'Handlee', cursive;
+  font-size: 2rem;
+  color: 00A8CC;
+}
+
+
+table,th,td
+{
+   padding: 9px;
+   font-family: 'Architects Daughter', cursive;
+   font-size: 2rem;
+   background-color: CDF0EA;
+}
+#Skills
+{
+  display: inline-block;
+  position: relative;
+  bottom: 2000;
+  font-size: 2.5em;
+  font-family: 'Amatic SC', cursive;
+  color: 6ECB63;
+
+}
+.line
+{
+  border-top: 25px dotted;
+  border-left: 0;
+  border-bottom: 0;
+  border-right: 0;
+  position: relative;
+  bottom: 2050;
+  width: 85%;
+  color: 2A0944;
+}
+.tble{
+  display: inline-block;
+  position: relative;
+  bottom: 1900;
+
+}
+.skillhd
+{
+  display: inline-block;
+  position: relative;
+  bottom: 1910;
+  right: 500;
+  font-size: 4rem;
+  font-family: 'Grey Qo', cursive;
+}
+.mntns
+{
+  display: inline-block;
+  position: relative;
+  bottom: 1900;
+  width: 100%;
+}
+#about
+{
+  text-align: left;
+  display: inline-block;
+  position: relative;
+  bottom: 2300;
+  right: 100;
+
+  font-size: 5rem;
+  background-color: FFF0F0;
+    font-family: 'Amatic SC', cursive;
+
+}
+.myselftxt
+{
+  display: inline-block;
+  position: relative;
+  bottom: 2300;
+  font-size: 3rem;
+  font-family: 'Grey Qo', cursive;
+  color: 334756
+}
+.myselftxt2
+{
+  display: inline-block;
+  position: relative;
+  bottom: 2300;
+  font-size: 3rem;
+  font-family: 'Grey Qo', cursive;
+  color: 334756
+}
+.bbl
+{
+  width: 100%;
+  height: 700;
+  position: relative;
+  bottom: 1900;
+}
+#wicd
+{
+  display: inline-block;
+  position: relative;
+  bottom: 2900;
+  font-size: 5rem;
+  background-color: FFF0F0;
+    font-family: 'Amatic SC', cursive;
+}
+.wicd2
+{
+  display: inline-block;
+  position: relative;
+  font-size: 3rem;
+  bottom: 2080;
+  font-family: 'Amatic SC', cursive;
+}
+#contact
+{
+  font-size: 5rem;
+    font-family: 'Amatic SC', cursive;
+    position: relative;
+    bottom: 2050;
+      background-color: FFF0F0;}
+.mail
+{
+  font-size: 4rem;
+    font-family: 'Amatic SC', cursive;
+    position: relative;
+    bottom: 2050;
+    color: 892CDC;
+    background-color: E8F6EF;
+
+}
+.sea
+{
+  width: 100%;
+  height: 900;
+  position: relative;
+  bottom: 1600;
+}
+.creat
+{
+  position: relative;
+  top: 2200;
+  font-size: 3rem;
+  font-family: 'Handlee', cursive;
+}
